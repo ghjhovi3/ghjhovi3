@@ -1,0 +1,11 @@
+{
+  "name": "singlepageweb",
+  "version": "1.0.0",
+  "description": "my port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhovie aquino",
+  "license": "ISC"
+}
